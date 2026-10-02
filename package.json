@@ -1,0 +1,11 @@
+{
+  "name": "frost-afk-bot",
+  "version": "1.0.0",
+  "main": "afkbot.js",
+  "scripts": {
+    "start": "node afkbot.js"
+  },
+  "dependencies": {
+    "bedrock-protocol": "latest"
+  }
+}       NODE_VERSION=20
